@@ -1,2 +1,2 @@
 image:
-  registry: node
+  registry: bitnami/node:14.18.2-debian-10-r8
