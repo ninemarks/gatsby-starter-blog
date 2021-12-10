@@ -1,2 +1,2 @@
 image:
-  registry: node:17-alpine
+  registry: node
